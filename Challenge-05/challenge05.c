@@ -11,7 +11,7 @@ int main()
     printf("2nd one is Factorial \n");
     printf("3rd one is Quadratic Equation \n");
     printf("4th one is Now you are allowed to exit or go out \n");
-    printf("\nPlease selecct any one option from (1-4) to proceed further \n");
+    printf("\nPlease select any one option from (1-4) to proceed further \n");
 
     printf("\n_________________________________________________________________________________\n");
     
