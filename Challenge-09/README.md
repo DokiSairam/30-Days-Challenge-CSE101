@@ -29,7 +29,7 @@ To develop a menu-driven C program using two-dimensional arrays, loops, conditio
 11. Display the updated seating arrangement after every successful booking or cancellation.
 12. For the occupancy report, calculate the total booked seats, available seats, occupancy percentage, and the rows having the highest number of booked seats.
 13. Repeat the menu until the user selects Exit.
-14. Display a closing message and stop.
+14. stop.
 
 ## C Concepts Used
 
